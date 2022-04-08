@@ -13,3 +13,7 @@ Launch the script start.py using:
 ## Other tested tracks:
 
 A folder containing classes implementing other classification algorithms that are used is the main script.
+
+## Results:
+
+A folder containing the script's output.
