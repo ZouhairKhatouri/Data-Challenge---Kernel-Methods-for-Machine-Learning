@@ -5,3 +5,7 @@ The goal of this Data Challenge was to classify some images using Kernel methods
 # How to use it:
 
 Launch the script start.py: python start.py
+
+# Other tested tracks:
+
+A folder containing classes implementing other classification algorithms that are used is the main script.
