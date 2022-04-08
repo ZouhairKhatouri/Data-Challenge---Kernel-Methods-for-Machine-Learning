@@ -6,7 +6,9 @@ The goal of this Data Challenge was to classify some images using Kernel methods
 
 ## How to use the code:
 
-Launch the script start.py: python start.py
+Launch the script start.py using:
+
+*python start.py*
 
 ## Other tested tracks:
 
